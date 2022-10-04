@@ -24,8 +24,13 @@ Default: 1
 --- 02 COLORS
 
 - Primary : #e67e22
-- Tints: #fdf2e9 #fae5d3
-- Greys: #555 - #333
+- Tints: 
+#fdf2e9 
+#fae5d3
+
+- Greys: 
+#6f6f6f Lightest grey allowed on #fdf2e9
+#555 - #333
 
 --- 05 SHADOWS
 
